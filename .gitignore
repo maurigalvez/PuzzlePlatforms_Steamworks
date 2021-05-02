@@ -1,0 +1,9 @@
+.vs/
+PuzzlePlatforms.sln
+Binaries/
+Intermediate/
+Saved/
+Build/
+Content/Geometry/
+Content/Mannequin/
+Content/ThirdPerson/Meshes/
